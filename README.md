@@ -1,2 +1,3 @@
 # hello-world
-mi primer repositorio
+mi primer repositori
+mi nombre es juan jose.
